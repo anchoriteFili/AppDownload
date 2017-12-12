@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.gonghuizhudi.com/lygw/lvyouguwen.ipa</string>
+					<string>https://github.com/anchoriteFili/AppDownload/blob/master/lygw/lvyouguwen.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.gonghuizhudi.com/lygw/lygw.jpg</string>
+					<string>https://github.com/anchoriteFili/AppDownload/blob/master/lygw/lygw.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.gonghuizhudi.com/lygw/lygw.jpg</string>
+					<string>https://github.com/anchoriteFili/AppDownload/blob/master/lygw.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
